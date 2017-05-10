@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 this is first document. 
 xxxxxxxxxxxxxxx
+=======
+this is first document. modifing in the Git HUb.
+bbbbbbbbbbbbbb
+>>>>>>> master
